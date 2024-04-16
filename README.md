@@ -2,13 +2,13 @@
 This repository contains a simple chatbot implemented in Python using the NLTK library for natural language processing and Tkinter for the graphical user interface. The chatbot is capable of engaging in conversations with users, responding to various greetings, questions, and statements.
 
 # Features
-# Interactive Conversation:
+# 1.Interactive Conversation:
 The chatbot engages users in conversations, responding to their messages based on predefined patterns and responses.
-# Multiple Responses:
+# 2.Multiple Responses:
 For each input pattern, the chatbot provides multiple possible responses, making the conversation more dynamic and natural.
-# Customizable:
+# 3.Customizable:
 Users can easily add or modify patterns and responses in the code to customize the chatbot's behavior according to their preferences.
-# Graphical User Interface:
+# 4.Graphical User Interface:
 The chatbot interface is built using Tkinter, providing a user-friendly experience for interacting with the chatbot.
 # Usage
 To run the chatbot, follow these steps:
