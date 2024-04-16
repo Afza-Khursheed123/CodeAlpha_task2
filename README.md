@@ -14,7 +14,6 @@ The chatbot interface is built using Tkinter, providing a user-friendly experien
 To run the chatbot, follow these steps:
 # 1.Clone the Repository:
 Clone this repository to your local machine using the following command:
-git clone https://github.com/your-username/your-repository.git
 # 2.Install NLTK:
 Make sure you have NLTK installed on your machine. You can install it using pip:
 pip install nltk
